@@ -1,0 +1,32 @@
+{
+  "instructions": "true",
+  "part":2,
+  "locale": "de",
+  "dotSize": 6,
+  "focusSize": 300, 
+  "ipd": 52.5,
+  "arcMinFont": 120,
+  "text": {
+    "instructions": [
+      {
+        "id": 1,
+        "text": "Im Folgenden werden Ihnen weitere gerade und gebogene Linien angezeigt. Diese werden zusätzlich unterschiedlich gepunktet sein.<br><br>Als Nächstes sehen Sie ein Beispiel."
+      },
+      {
+        "id": 2,
+        "text": "Ihr Test wird für mehrere Minuten fortgeführt.<br><br>Machen Sie eine Pause und schließen Sie Ihre Augen für einen Moment.<br><br>Es folgen weiteren Pausen."
+      },
+      {
+        "id": 3,
+        "text": "Der Test geht nun weiter.<br><br>Beantworten Sie, ob die Linien  gerade waren mit JA oder NEIN."
+      }
+    ],
+    "text": {
+      "question": "War die Linie gerade?",
+      "understood": "Verstanden. Danke",
+      "end": "Der Test ist beendet. Bitte nehmen Sie die VR Brille ab.",
+      "pause": "Machen Sie eine Pause und schließen Sie Ihre Augen für einen Moment.<br><br>Es folgen weiteren Pausen.",
+      "pauseEnd": "Der Test geht nun weiter.<br><br>Beantworten Sie, ob die Linien  gerade waren mit <i>JA</i> oder <i>NEIN</i>."
+    }
+  }
+}

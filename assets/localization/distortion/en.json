@@ -1,0 +1,57 @@
+{
+  "instructionsList": 
+    [
+      {
+        "instructions": [
+          {
+            "id": 1,
+            "text": "Say START to begin <i>after</i> putting on the VR headset."
+          },
+          {
+            "id": 2,
+            "text": "In this test you will be shown lines for a very short time.<br><br>Before that, you will always be shown a circle. Focus on the center, if possible the point. The following is an example."
+          },
+          {
+            "id": 3,
+            "text": "Lines can be horizontal or vertical. Many lines are straight, others are curved. Next you will see an example of a curved line."
+          },
+          {
+            "id": 4,
+            "text": "Your task is to say which line is straight and which is curved.<br><br>After each line, say YES for straight and NO for curved.<br><br>Here is another example."
+          }, 
+          {
+            "id": 5,
+            "text": "The test will now start.<br><br>If you don't see a line, wait for the next one."
+          }
+        ],
+        "text": {
+          "question": "Was the line straight?",
+          "understood": "Understood. Thanks.",
+          "end": "The test is finished. Please remove the VR headset."
+        }
+      },
+      {
+        "instructions": [
+          {
+            "id": 1,
+            "text": "In the following you will see more straight and curved lines. These will additionally be dotted differently.<br><br>Next you will see an example."
+          },
+          {
+            "id": 2,
+            "text": "Your test will continue for multiple minutes.<br><br>Take a break and close your eyes for a moment.<br><br>More pauses will follow."
+          },
+          {
+            "id": 3,
+            "text": "The test now continues.<br><br>Answer whether the lines were straight with <i>YES</i> or <i>NO</i>."
+          }
+        ],
+        "text": {
+          "question": "Was the line straight?",
+          "understood": "Understood. Thanks.",
+          "end": "The test is finished. Please remove the VR headset.",
+          "pause": "Take a break and close your eyes for a moment.<br><br>More pauses will follow.",
+          "pauseEnd": "The test now continues.<br><br>Answer whether the lines were straight with <i>YES</i> or <i>NO</i>."
+        }
+      }
+    ]
+}

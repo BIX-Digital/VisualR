@@ -1,0 +1,29 @@
+{
+  "instructions": [
+    {
+      "id": 1,
+      "text": "Sagen Sie <i>START</i> um zu beginnen, <i>nachdem</i> Sie die VR Brille aufgesetzt haben."
+    },
+    {
+      "id": 2,
+      "text": "Als Nächstes werden Ihnen mehrere Ringe gezeigt.<br>Wenn Sie keine sehen, antworten Sie mit \"0\" oder \"keine\"."
+    },
+    {
+      "id": 3,
+      "text": "Wie viele Ringe sehen Sie?"
+    },
+    {
+      "id": 4,
+      "text": "Verstanden. Danke."
+    },
+    {
+      "id": 5,
+      "text": "Der Test startet nun.<br>Sagen Sie bei jedem Bild, wie viele Ringe Sie sehen."
+    }
+  ],
+  "text": {
+    "question": "Wie viele Ringe sehen Sie?",
+    "understood": "Verstanden. Danke",
+    "end": "Der Test ist beendet. Bitte nehmen Sie die VR Brille ab."
+  }
+}

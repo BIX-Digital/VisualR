@@ -1,0 +1,29 @@
+{
+  "instructions": [
+    {
+      "id": 1,
+      "text": "Say <i>START</i> to begin <i>after</i> putting on the VR headset."
+    },
+    {
+      "id": 2,
+      "text": "Next, you will be shown several rings.<br>If you don't see any, answer \"0\" or \"none\"."
+    },
+    {
+      "id": 3,
+      "text": "How many rings do you see?"
+    },
+    {
+      "id": 4,
+      "text": "Understood. Thanks."
+    },
+    {
+      "id": 5,
+      "text": "The test will now start.<br>For each image, say how many rings you see."
+    }
+  ],
+  "text": {
+    "question": "How many rings do you see?",
+    "understood": "Understood. Thanks.",
+    "end": "The test is finished. Please remove the VR goggles."
+  }
+}

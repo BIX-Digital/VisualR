@@ -1,0 +1,25 @@
+{
+  "instructions": [
+    {
+      "id": 1,
+      "text": "Sagen Sie START um zu beginnen, nachdem Sie die VR Brille aufgesetzt haben."
+    },
+    {
+      "id": 2,
+      "text": "Als Nächstes wird Ihnen ein Beispieltext angezeigt.  Schauen Sie sich um und gewöhnen Sie sich an die Bewegung."
+    },
+    {
+      "id": 3,
+      "text": "Nun beginnt Ihre Aufgabe. Bitte lesen Sie den gesamten Text laut und deutlich von oben links ohne Unterbrechung vor.<br><br>Sagen Sie START, um zu beginnen."
+    }
+  ],
+  "text": {
+    "instructionWords": "Partner Kennzeichen Schwester Postleitzahl Ausflug Termin Tier Mehrwertsteuer Mensch Beruf Norden Vater Leid Sprechstunde Lust Fehler Ferien Sohn Kundin Batterie Haar Kaffee Käse Nummer Alkohol Brief Brieftasche Problem Mitteilung Schnee Pkw Familie Studium Reisebüro Essen Natur Sofa Friseur Mund Paket Geschirr Zahl Spaß Trinkgeld Lehrer Pommes frites Gewitter Party Kosmetik Kredit Unterhaltung Pass Ärger Kugelschreiber Krankenkasse Banane Regen Tasse Absender Sekunde Briefkasten Schirm Fuß Haltestelle Einwohner Schüler Berufsschule Katze Einladung Ausweis Partei Formular Ausland Nebel Industrie Turm Fest Klasse Suppe Panne Automat Hilfe Preis Unterricht Leute Herz Datum Birne Salz Abfahrt Wald Kreditkarte Grundschule Gas Ende Lkw Meinung Rathaus Rechnung Tomate",
+    "infoSignText": "Bitte sehen Sie in diese Richtung",
+    "repeat": "Der Test wird nun mit Ihrem anderen Auge wiederholt.<br><br>Bitte lesen Sie erneut den gesamten Text laut und deutlich von oben links ohne Unterbrechung vor.",
+    "endTestInstruction": "Sagen Sie TEST BEENDEN, um den Test zu beenden.",
+    "processing": "Ihre Ergebnisse werden verarbeitet. Bitte warten Sie einen Moment und schließen Sie die App nicht.",
+    "error": "Es gab einen Fehler beim Verarbeiten Ihrer Ergebnisse. Bitte starten Sie den Test erneut.",
+    "end": "Der Test ist beendet. Bitte nehmen Sie die VR Brille ab."
+  }
+}

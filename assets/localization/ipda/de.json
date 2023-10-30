@@ -1,0 +1,14 @@
+{
+  "instructions": [
+    {
+      "id": 1,
+      "text": "Sagen Sie <i>START</i> um zu beginnen, <i>nachdem</i> Sie die VR Brille aufgesetzt haben."
+    }
+  ],
+  "text": {
+    "question": "Welches Bild war das schärfste?",
+    "understood": "Bild {0} war das schärfste. Verstanden. Danke.",
+    "text": "Jemand musste Josef K. verleumdet haben, denn ohne dass er etwas Böses getan hätte, wurde er eines Morgens verhaftet.",
+    "end": "Die Einstellung ist beendet. Bitte nehmen Sie die VR Brille ab."
+  }
+}

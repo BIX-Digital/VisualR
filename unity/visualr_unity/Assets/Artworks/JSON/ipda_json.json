@@ -1,0 +1,19 @@
+{
+  "instructions": "true",
+  "locale": "de",
+  "arcMinFont": 120,
+  "arcMinSize": 700,
+  "text": {
+    "instructions": [
+      {
+        "id": 1,
+        "text": "Sagen Sie START  <i>nachdem</i> Sie die VR Brille aufgesetzt haben."
+      }
+    ],
+    "text": {
+      "question": "Welches Bild war das schärfste?",
+      "understood": "Bild {0} war das schärfste. Verstanden. Danke.",
+      "end": "Die Einstellung ist beendet. Bitte nehmen Sie die VR Brille ab."
+    }
+  }
+}

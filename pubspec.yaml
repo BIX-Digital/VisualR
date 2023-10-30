@@ -1,0 +1,81 @@
+name: visualr_app
+description: VisualR is a VR-based smartphone application to perform vision function tests. It consists of a smartphone app that is used together with a simple VR headset.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  another_flushbar: ^1.12.29
+  auto_route: ^7.1.0
+  collection: ^1.17.1
+  device_info_plus: ^9.0.3
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  flutter_oss_licenses: ^2.0.1
+  flutter_unity_widget: ^2022.1.7+1
+  intl: ^0.18.0
+  lint: ^2.0.1
+  lottie: ^2.3.2
+  objectbox: ^2.0.0
+  objectbox_flutter_libs: ^2.0.0
+  package_info_plus: ^4.1.0
+  path_provider: ^2.0.11
+  perfect_volume_control: ^1.0.5
+  permission_handler: ^10.2.0
+  provider: ^6.0.3
+  record: ^4.4.4
+  screen_brightness: ^0.2.2
+  share_plus: ^7.1.0
+  shared_preferences: ^2.0.15
+  whisper_dart: ^0.0.11
+  
+
+dev_dependencies:
+  auto_route_generator: ^7.0.0
+  build_runner: ^2.3.3
+  flutter_launcher_icons: ^0.13.1
+  flutter_test:
+    sdk: flutter
+  objectbox_generator: ^2.0.0
+
+flutter_icons:
+  ios: true
+  image_path: "assets/icon/icon.png"
+
+flutter:
+  uses-material-design: true
+
+  generate: true
+
+  assets:
+    - assets/localization/contrast/
+    - assets/localization/distortion/
+    - assets/localization/ipda/
+    - assets/localization/readingSpeed/
+    - assets/localization/settings/
+    - assets/animations/
+    - assets/models/
+    - assets/reading/
+
+  fonts:
+    - family: Sora
+      fonts:
+        - asset: assets/fonts/Sora-Regular.ttf
+        - asset: assets/fonts/Sora-Thin.ttf
+          weight: 100
+        - asset: assets/fonts/Sora-ExtraLight.ttf
+          weight: 200
+        - asset: assets/fonts/Sora-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Sora-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Sora-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Sora-ExtraBold.ttf
+          weight: 800

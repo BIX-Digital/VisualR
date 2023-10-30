@@ -1,0 +1,25 @@
+{
+  "instructions": [
+    {
+      "id": 1,
+      "text": "Say START to begin after putting on the VR headset."
+    },
+    {
+      "id": 2,
+      "text": "Next, you will be shown a sample text. Look around and get used to the movement."
+    },
+    {
+      "id": 3,
+      "text": "Next, your task will start. Please read out all text loud and clearly from the top left without stopping.<br><br>Say START to begin."
+    }
+  ],
+  "text": {
+    "instructionWords": "drawer candidate puzzle palace cottage jazz examiner greeting guest cotton exams player wardrobe wool lorry flu suggestion ice politics tram power printer shoe roll spoon blouse volume basin fridge roof cage ground cake police immigration recipe throat rainforest ingredient title driver granddaughter digital excitement ambition brochure quality idea salt landscape detective apartment kilogramme full elevator singer snack buyer peak army ocean beard underwear goal video accommodation cheek drum sex region charity screen month fashion pitch reporter opinion programme flour toothpaste diagram kettle tune parking folder fare art middle conversation discotheque midnight paragraph frog hairdryer gallery trunk physics windy mystery question",
+    "infoSignText": "Please look in this direction",
+    "repeat": "The test will now be repeated with your other eye.<br><br>Again, please read all text loud and clearly from the top left without stopping.",
+    "endTestInstruction": "Say END TEST to end the test.",
+    "processing": "Your results are being processed. Please wait a moment and do not close the app.",
+    "error": "There has been an error while processing your results. Please repeat the test.",
+    "end": "The test is finished. Please remove the VR goggles."
+  }
+}

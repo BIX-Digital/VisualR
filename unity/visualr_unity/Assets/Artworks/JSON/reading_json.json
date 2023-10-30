@@ -1,0 +1,29 @@
+{
+  "instructions": "true",
+  "locale": "de",
+  "ipd": 72.5,
+  "arcMinFont": 120,
+  "text": {
+    "instructions": [
+      {
+        "id": 1,
+        "text": "Sagen Sie START, um zu beginnen."
+      },
+      {
+        "id": 2,
+        "text": "Als Nächstes wird Ihnen ein Beispieltext angezeigt.  Schauen Sie sich um und gewöhnen Sie sich an die Bewegung."
+      },
+      {
+        "id": 3,
+        "text": "Nun beginnt Ihre Aufgabe. Bitte lesen Sie den gesamten Text laut und deutlich von oben links ohne Unterbrechung vor.<br><br>Sagen Sie START, um zu beginnen."
+      }
+    ],
+    "text": {
+      "instructionWords": "drawer candidate puzzle palace cottage jazz examiner greeting guest cotton exams player wardrobe wool lorry flu suggestion ice politics tram power printer shoe roll spoon blouse volume basin fridge roof cage ground cake police immigration recipe throat rainforest ingredient title driver granddaughter digital excitement ambition brochure quality idea salt landscape detective apartment kilogramme full elevator singer snack buyer peak army ocean beard underwear goal video accommodation cheek drum sex region charity screen month fashion pitch reporter opinion programme flour toothpaste diagram kettle tune parking folder fare art middle conversation discotheque midnight paragraph frog hairdryer gallery trunk physics windy mystery question",
+      "infoSignText": "Bitte sehen Sie in diese Richtung",
+      "repeat": "Der Test wird nun mit Ihrem anderen Auge wiederholt.<br><br>Bitte lesen Sie erneut den gesamten Text laut und deutlich von oben links ohne Unterbrechung vor.",
+      "endTestInstruction": "Sagen Sie TEST BEENDEN, um den Test zu beenden.",
+      "end": "Der Test ist beendet. Bitte nehmen Sie die VR Brille ab."
+    }
+  }
+}

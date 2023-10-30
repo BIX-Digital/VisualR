@@ -1,0 +1,14 @@
+{
+  "instructions": [
+    {
+      "id": 1,
+      "text": "Say <i>START</i> to begin <i>after</i> putting on the VR headset."
+    }
+  ],
+  "text": {
+    "question": "Which image was the sharpest?",
+    "understood": "Image {0} was the sharpest. Understood. Thank you.",
+    "text": "One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.",
+    "end": "The setting is finished. Please remove the VR goggles."
+  }
+}

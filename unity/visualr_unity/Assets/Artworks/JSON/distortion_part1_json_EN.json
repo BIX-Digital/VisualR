@@ -1,0 +1,38 @@
+{
+  "instructions": "true",
+  "part":1,
+  "locale": "de",
+  "dotSize": 6,
+  "focusSize": 300, 
+  "ipd": 52.5,
+  "arcMinFont": 120,
+  "text": {
+    "instructions": [
+      {
+        "id": 1,
+        "text": "Say START to begin <i>after</i> putting on the VR headset."
+      },
+      {
+        "id": 2,
+        "text": "In this test you will be shown lines for a very short time.<br><br>Before that, you will always be shown a circle. Focus on the center, if possible the point. The following is an example."
+      },
+      {
+        "id": 3,
+        "text": "Lines can be horizontal or vertical. Many lines are straight, others are curved. Next you will see an example of a curved line."
+      },
+      {
+        "id": 4,
+        "text": "Your task is to say which line is straight and which is curved.<br><br>After each line, say YES for straight and NO for curved.<br><br>Here is another example."
+      }, 
+      {
+        "id": 5,
+        "text": "The test will now start.<br><br>Please answer even if you are unsure.<br><br>followed by countdown"
+      }
+    ],
+    "text": {
+      "question": "Was the line straight?",
+      "understood": "Understood. Thanks.",
+      "end": "The test is finished. Please remove the VR headset."
+    }
+  }
+}

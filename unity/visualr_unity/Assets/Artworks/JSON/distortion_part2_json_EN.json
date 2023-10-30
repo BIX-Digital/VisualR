@@ -1,0 +1,32 @@
+{
+  "instructions": "true",
+  "part":2,
+  "locale": "en",
+  "dotSize": 6,
+  "focusSize": 300, 
+  "ipd": 52.5,
+  "arcMinFont": 120,
+  "text": {
+    "instructions": [
+      {
+        "id": 1,
+        "text": "In the following you will see more straight and curved lines. These will additionally be dotted differently.<br><br>Next you will see an example."
+      },
+      {
+        "id": 2,
+        "text": "Your test will continue for multiple minutes.<br><br>Take a break and close your eyes for a moment.<br><br>More pauses will follow."
+      },
+      {
+        "id": 3,
+        "text": "The test now continues.<br><br>Answer whether the lines were straight with <i>YES</i> or <i>NO</i>."
+      }
+    ],
+    "text": {
+      "question": "Was the line straight?",
+      "understood": "Understood. Thanks.",
+      "end": "The test is finished. Please remove the VR headset.",
+      "pause": "Take a break and close your eyes for a moment.<br><br>More pauses will follow.",
+      "pauseEnd": "The test now continues.<br><br>Answer whether the lines were straight with <i>YES</i> or <i>NO</i>."
+    }
+  }
+}

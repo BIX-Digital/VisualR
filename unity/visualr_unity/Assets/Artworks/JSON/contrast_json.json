@@ -1,0 +1,40 @@
+{
+  "instructions": "true",
+  "backgroundColor": {
+    "r": 26,
+    "g": 26,
+    "b": 26
+  },
+  "locale": "de",
+  "ipd": 52.5,
+  "arcMinFont": 120,
+  "text": {
+    "instructions": [
+      {
+        "id": 1,
+        "text": "Sagen Sie <i>START</i> um zu beginnen."
+      },
+      {
+        "id": 2,
+        "text": "Als Nächstes werden Ihnen mehrere Kreise in verschiedenen Grautönen gezeigt. Womöglich werden Sie nicht alle sehen."
+      },
+      {
+        "id": 3,
+        "text": "Wie viele Kreise sehen Sie?"
+      },
+      {
+        "id": 4,
+        "text": "Verstanden. Danke."
+      },
+      {
+        "id": 5,
+        "text": "Der Test startet nun."
+      }
+    ],
+    "text": {
+      "question": "Wie viele Kreise sehen Sie?",
+      "understood": "Verstanden. Danke.",
+      "end": "Der Test ist beendet. Bitte nehmen Sie die VR Brille ab."
+    }
+  }
+}

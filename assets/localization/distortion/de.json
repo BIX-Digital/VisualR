@@ -1,0 +1,56 @@
+{"instructionsList": 
+  [
+    {
+      "instructions": [
+        {
+          "id": 1,
+          "text": "Sagen Sie <i>START</i> um zu beginnen nachdem Sie die VR Brille aufgesetzt haben. "
+        },
+        {
+          "id": 2,
+          "text": "In diesem Test werden Ihnen für sehr kurze Zeit Linien gezeigt.<br><br>Zuvor wird Ihnen immer ein Kreis angezeigt. Fokussieren Sie  dabei die Mitte, möglichst den Punkt. Es folgt ein Beispiel."
+        },
+        {
+          "id": 3,
+          "text": "Linien können <i>waagerecht</i> oder <i>senkrecht</i> sein. Viele Linien sind <i>gerade</i>, andere <i>gebogen</i>.<br><br>Als Nächstes sehen Sie ein Beispiel für eine gebogene Linie."
+        },
+        {
+          "id": 4,
+          "text": "Ihre Aufgabe ist es, zu sagen, welche Linie <i>gerade</i> ist und welche <i>gebogen.</i><br><br>Sagen Sie nach jeder Linie <i>JA</i> für <u>gerade</u> und <i>NEIN</i> für <u>gebogen</u>.<br><br>Es folgt ein weiteres Beispiel."
+        }, 
+        {
+          "id": 5,
+          "text": "Der Test startet nun.<br><br>Wenn Sie keine Linie sehen, warten Sie auf die nächste."
+        }
+      ],
+      "text": {
+        "question": "War die Linie gerade?",
+        "understood": "Verstanden. Danke",
+        "end": "Der Test ist beendet. Bitte nehmen Sie die VR Brille ab."
+      }
+    },
+    {
+      "instructions": [
+        {
+          "id": 1,
+          "text": "Im Folgenden werden Ihnen weitere gerade und gebogene Linien angezeigt. Diese werden zusätzlich unterschiedlich gepunktet sein.<br><br>Als Nächstes sehen Sie ein Beispiel."
+        },
+        {
+          "id": 2,
+          "text": "Ihr Test wird für mehrere Minuten fortgeführt.<br><br>Machen Sie eine Pause und schließen Sie Ihre Augen für einen Moment.<br><br>Es folgen weitere Pausen."
+        },
+        {
+          "id": 3,
+          "text": "Der Test geht nun weiter.<br><br>Beantworten Sie, ob die Linien  gerade waren mit JA oder NEIN."
+        }
+      ],
+      "text": {
+        "question": "War die Linie gerade?",
+        "understood": "Verstanden. Danke",
+        "end": "Der Test ist beendet. Bitte nehmen Sie die VR Brille ab.",
+        "pause": "Machen Sie eine Pause und schließen Sie Ihre Augen für einen Moment.<br><br>Es folgen weiteren Pausen.",
+        "pauseEnd": "Der Test geht nun weiter.<br><br>Beantworten Sie, ob die Linien  gerade waren mit <i>JA</i> oder <i>NEIN</i>."
+      }
+    }
+  ]
+}

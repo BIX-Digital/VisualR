@@ -1,0 +1,204 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "1:3461671662745078630",
+      "lastPropertyId": "8:7330708792523217487",
+      "name": "ContrastTestEntity",
+      "properties": [
+        {
+          "id": "1:8403959304576144525",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:3315184244188244179",
+          "name": "createdAt",
+          "type": 10
+        },
+        {
+          "id": "3:7891528773631323681",
+          "name": "user",
+          "type": 9
+        },
+        {
+          "id": "4:8048706433989968253",
+          "name": "backgroundColor",
+          "type": 9
+        },
+        {
+          "id": "5:2329964942333445549",
+          "name": "summary",
+          "type": 9
+        },
+        {
+          "id": "6:519354779214579571",
+          "name": "appMeta",
+          "type": 9
+        },
+        {
+          "id": "7:1188516700794101984",
+          "name": "steps",
+          "type": 30
+        },
+        {
+          "id": "8:7330708792523217487",
+          "name": "isDark",
+          "type": 1
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "2:7417403847546955918",
+      "lastPropertyId": "9:2066784645878408299",
+      "name": "DistortionTestEntity",
+      "properties": [
+        {
+          "id": "1:7825682934461502970",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:7733327252654296773",
+          "name": "createdAt",
+          "type": 10
+        },
+        {
+          "id": "3:129994670704662287",
+          "name": "user",
+          "type": 9
+        },
+        {
+          "id": "4:3670026371680475199",
+          "name": "appMeta",
+          "type": 9
+        },
+        {
+          "id": "5:2733958765451721788",
+          "name": "summary",
+          "type": 9
+        },
+        {
+          "id": "6:4007918171834404163",
+          "name": "scores",
+          "type": 9
+        },
+        {
+          "id": "7:1643665578858610828",
+          "name": "part1",
+          "type": 30
+        },
+        {
+          "id": "8:7168332268608084011",
+          "name": "missedPart1",
+          "type": 30
+        },
+        {
+          "id": "9:2066784645878408299",
+          "name": "part2",
+          "type": 30
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "3:7703022552314703412",
+      "lastPropertyId": "7:6362572823928528949",
+      "name": "IPDAEntity",
+      "properties": [
+        {
+          "id": "1:7602962855655530570",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:935981012458319806",
+          "name": "user",
+          "type": 9
+        },
+        {
+          "id": "3:6000428052901602704",
+          "name": "displaySize",
+          "type": 9
+        },
+        {
+          "id": "4:5339392912237090804",
+          "name": "answers",
+          "type": 9
+        },
+        {
+          "id": "5:8536312037792308896",
+          "name": "ipd",
+          "type": 8
+        },
+        {
+          "id": "6:5434039510484347772",
+          "name": "appMeta",
+          "type": 9
+        },
+        {
+          "id": "7:6362572823928528949",
+          "name": "createdAt",
+          "type": 10
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "4:7582336325514096794",
+      "lastPropertyId": "6:715626917250905184",
+      "name": "ReadingSpeedTestSequenceEntity",
+      "properties": [
+        {
+          "id": "1:2060511852595292435",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:1477002624684430095",
+          "name": "createdAt",
+          "type": 10
+        },
+        {
+          "id": "3:6612411127565671664",
+          "name": "user",
+          "type": 9
+        },
+        {
+          "id": "4:6314998269914933398",
+          "name": "summary",
+          "type": 9
+        },
+        {
+          "id": "5:7977235723276114497",
+          "name": "appMeta",
+          "type": 9
+        },
+        {
+          "id": "6:715626917250905184",
+          "name": "steps",
+          "type": 30
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "4:7582336325514096794",
+  "lastIndexId": "0:0",
+  "lastRelationId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 5,
+  "modelVersionParserMinimum": 5,
+  "retiredEntityUids": [],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [],
+  "retiredRelationUids": [],
+  "version": 1
+}
